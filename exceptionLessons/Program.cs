@@ -8,4 +8,6 @@ public class exceptionLessons
 
     int sum2 = 3;
 
+    int sum3 = 4;
+
 }
