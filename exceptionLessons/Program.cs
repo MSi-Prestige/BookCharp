@@ -12,6 +12,7 @@ public class exceptionLessons
     int sum4 = 6;
     int sum5 = 5;
     int sum6 = 7;
+    int sum7 = 8;   
 
     string addgitCraken;
 
